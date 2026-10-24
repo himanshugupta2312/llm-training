@@ -1,0 +1,9 @@
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+transformers==4.45.2
+datasets==2.20.0
+tokenizers==0.20.3
+numpy==2.5.2
+matplotlib==3.11.2
+tqdm==4.70.1
